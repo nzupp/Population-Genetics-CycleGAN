@@ -2,6 +2,9 @@ import os
 import numpy as np
 import pandas as pd
 
+# Point to QN for comparison as needed
+#TODO take directories as an argument
+
 TRANSFORMED_DIR = (
     "/fs/ess/PAA0202/Zuppas/Dissertation/Chapter1/"
     "Population_Genetics_CycleGAN/output/transformed"
